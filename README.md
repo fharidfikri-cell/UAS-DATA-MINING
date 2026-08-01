@@ -169,7 +169,7 @@ Tambahkan link aplikasi Streamlit setelah deployment.
 
 Contoh:
 
-https://namaproyek.streamlit.app
+https://fharidfikri-cell-uas-data-mining-app-be76jj.streamlit.app
 
 ---
 
