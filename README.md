@@ -179,7 +179,7 @@ Tambahkan link repository GitHub.
 
 Contoh:
 
-https://github.com/USERNAME/UAS-DATA-MINING
+https://github.com/fharidfikri-cell/UAS-DATA-MINING
 
 ---
 
