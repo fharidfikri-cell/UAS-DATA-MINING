@@ -18,7 +18,7 @@ from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_sc
 # ------------------------------------------------------------
 st.set_page_config(page_title="UAS Data Mining", layout="wide")
 st.title("🎯 Ujian Akhir Semester - Data Mining")
-st.markdown("**Nama:** [Nama Anda] | **NIM:** [NIM Anda]")
+st.markdown("**Nama:** FHARID FIKRI SYAHPUTRA.HS | **NIM:** 23146093")
 st.divider()
 
 # ------------------------------------------------------------
